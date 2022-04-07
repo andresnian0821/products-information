@@ -1,4 +1,4 @@
-package com.between.productsinformation;
+package com.between.products.information.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
