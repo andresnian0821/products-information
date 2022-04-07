@@ -10,6 +10,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/products-information-app" />
+            <option value="$PROJECT_DIR$/products-information-client" />
+            <option value="$PROJECT_DIR$/products-information-common" />
+            <option value="$PROJECT_DIR$/products-information-core" />
           </set>
         </option>
       </GradleProjectSettings>

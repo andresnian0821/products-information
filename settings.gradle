@@ -1,3 +1,6 @@
 rootProject.name = 'products-information'
 include 'products-information-app'
+include 'products-information-client'
+include 'products-information-common'
+include 'products-information-core'
 
