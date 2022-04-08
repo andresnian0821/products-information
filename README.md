@@ -15,3 +15,12 @@ Requirements
 
 **This project has the appropriate configuration to generate coverage report in sonar**
 
+**Graph**
+
+![App Screenshot](https://github.com/andresnian0821/products-information/blob/develop/console-description.png)
+
+![App Screenshot](https://github.com/andresnian0821/products-information/blob/develop/graphana%20.png)
+
+**Swagger**
+
+![App Screenshot](https://github.com/andresnian0821/products-information/blob/develop/swagger.png)
