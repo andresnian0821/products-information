@@ -1,0 +1,4 @@
+com/between/products/information/client/config/FeignConfiguration.java
+ com.between.products.information.client.config.FeignConfiguration
+com/between/products/information/client/operations/ProductsOperation.java
+ com.between.products.information.client.operations.ProductsOperation

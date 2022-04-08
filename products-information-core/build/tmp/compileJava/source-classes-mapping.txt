@@ -1,0 +1,4 @@
+com/between/products/information/core/service/impl/ProductsServiceImpl.java
+ com.between.products.information.core.service.impl.ProductsServiceImpl
+com/between/products/information/core/service/ProductsService.java
+ com.between.products.information.core.service.ProductsService

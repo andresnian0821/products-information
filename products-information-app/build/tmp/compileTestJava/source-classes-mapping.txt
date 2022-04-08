@@ -1,0 +1,6 @@
+com/between/products/information/app/ProductsInformationApplicationTests.java
+ com.between.products.information.app.ProductsInformationApplicationTests
+com/between/products/information/app/controller/ProductsControllerTest.java
+ com.between.products.information.app.controller.ProductsControllerTest
+com/between/products/information/app/config/BaseConfig.java
+ com.between.products.information.app.config.BaseConfig

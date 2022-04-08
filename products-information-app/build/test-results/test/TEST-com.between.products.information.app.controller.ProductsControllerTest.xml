@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.between.products.information.app.controller.ProductsControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-08T04:56:25" hostname="ip-192-168-155-53.us-west-2.compute.internal" time="0.987">
+  <properties/>
+  <testcase name="detailSimilarProductSuccess()" classname="com.between.products.information.app.controller.ProductsControllerTest" time="0.987"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

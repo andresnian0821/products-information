@@ -1,0 +1,2 @@
+…00:27:25.933 [ForkJoinPool.commonPool-worker-19] ERROR com.between.products.information.core.service.impl.ProductsServiceImpl - null
+o00:27:25.933 [Test worker] ERROR com.between.products.information.core.service.impl.ProductsServiceImpl - null

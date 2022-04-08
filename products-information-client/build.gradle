@@ -1,0 +1,8 @@
+dependencies {
+    implementation project(":products-information-common")
+    implementation 'io.github.openfeign:feign-httpclient'
+    implementation 'io.github.openfeign:feign-okhttp'
+    implementation "io.github.openfeign:feign-gson:9.4.0"
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+}
