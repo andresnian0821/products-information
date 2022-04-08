@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.between.products.information.core.service.impl.ProductsServiceImplTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-04-08T05:27:25" hostname="ip-192-168-155-53.us-west-2.compute.internal" time="0.814">
+  <properties/>
+  <testcase name="detailSimilarProductServiceSuccess()" classname="com.between.products.information.core.service.impl.ProductsServiceImplTest" time="0.774"/>
+  <testcase name="detailSimilarWithoutDetails()" classname="com.between.products.information.core.service.impl.ProductsServiceImplTest" time="0.036"/>
+  <testcase name="detailSimilarWithoutSimilars()" classname="com.between.products.information.core.service.impl.ProductsServiceImplTest" time="0.001"/>
+  <testcase name="detailSimilarCatchFeignException()" classname="com.between.products.information.core.service.impl.ProductsServiceImplTest" time="0.001"/>
+  <system-out><![CDATA[00:27:25.933 [ForkJoinPool.commonPool-worker-19] ERROR com.between.products.information.core.service.impl.ProductsServiceImpl - null
+00:27:25.933 [Test worker] ERROR com.between.products.information.core.service.impl.ProductsServiceImpl - null
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
